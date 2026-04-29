@@ -1,0 +1,995 @@
+{
+  "transcript": "what would you do if you got struck by lightning once twice how about six times meet roy sullivan a park ranger with a crazy connection to lightning his first strike nineteen forty two he's driving along and bam a bolt hits him he just walks away second time nine hundred sixty nine walking in the park lightning hits again knocked out cold but somehow he's fine now you'd think he'd be done right but no he's struck again in one nine hundred seventy and again in one nine hundred seventy two at this point it's like the sk's got it out for him but it's nine hundred seventy three that gets wild roy sees a storm coming panics and starts running for cover but the lightning hit him exactly where he ran i know you're probably thinking how does this guy survive all that well here's the crazy part after surviving six lightning strikes it wasn't lightning that ended roy in nineteen eighty three he passed away but not from a bolt of lightning he died from a self inflicted gunshot wound survived six lightning strikes but in the end fate caught up with him another way",
+  "word_timestamps": [
+    {
+      "end": 0.32,
+      "start": 0.24,
+      "word": "what"
+    },
+    {
+      "end": 0.56,
+      "start": 0.32,
+      "word": "would"
+    },
+    {
+      "end": 0.8,
+      "start": 0.56,
+      "word": "you"
+    },
+    {
+      "end": 1.12,
+      "start": 0.8,
+      "word": "do"
+    },
+    {
+      "end": 1.44,
+      "start": 1.12,
+      "word": "if"
+    },
+    {
+      "end": 1.76,
+      "start": 1.44,
+      "word": "you"
+    },
+    {
+      "end": 2,
+      "start": 1.76,
+      "word": "got"
+    },
+    {
+      "end": 2.48,
+      "start": 2,
+      "word": "struck"
+    },
+    {
+      "end": 2.64,
+      "start": 2.48,
+      "word": "by"
+    },
+    {
+      "end": 3.2,
+      "start": 2.64,
+      "word": "lightning"
+    },
+    {
+      "end": 4.08,
+      "start": 3.2,
+      "word": "once"
+    },
+    {
+      "end": 4.88,
+      "start": 4.08,
+      "word": "twice"
+    },
+    {
+      "end": 5.36,
+      "start": 4.88,
+      "word": "how"
+    },
+    {
+      "end": 5.68,
+      "start": 5.36,
+      "word": "about"
+    },
+    {
+      "end": 6.24,
+      "start": 5.68,
+      "word": "six"
+    },
+    {
+      "end": 6.88,
+      "start": 6.24,
+      "word": "times"
+    },
+    {
+      "end": 7.68,
+      "start": 6.88,
+      "word": "meet"
+    },
+    {
+      "end": 8.08,
+      "start": 7.68,
+      "word": "roy"
+    },
+    {
+      "end": 8.72,
+      "start": 8.08,
+      "word": "sullivan"
+    },
+    {
+      "end": 8.96,
+      "start": 8.72,
+      "word": "a"
+    },
+    {
+      "end": 9.28,
+      "start": 8.96,
+      "word": "park"
+    },
+    {
+      "end": 9.76,
+      "start": 9.28,
+      "word": "ranger"
+    },
+    {
+      "end": 9.92,
+      "start": 9.76,
+      "word": "with"
+    },
+    {
+      "end": 10.16,
+      "start": 9.92,
+      "word": "a"
+    },
+    {
+      "end": 10.72,
+      "start": 10.16,
+      "word": "crazy"
+    },
+    {
+      "end": 11.2,
+      "start": 10.72,
+      "word": "connection"
+    },
+    {
+      "end": 11.36,
+      "start": 11.2,
+      "word": "to"
+    },
+    {
+      "end": 11.92,
+      "start": 11.36,
+      "word": "lightning"
+    },
+    {
+      "end": 12.48,
+      "start": 11.92,
+      "word": "his"
+    },
+    {
+      "end": 12.72,
+      "start": 12.48,
+      "word": "first"
+    },
+    {
+      "end": 13.2,
+      "start": 12.72,
+      "word": "strike"
+    },
+    {
+      "end": 13.92,
+      "start": 13.2,
+      "word": "nineteen"
+    },
+    {
+      "end": 14.4,
+      "start": 13.92,
+      "word": "forty"
+    },
+    {
+      "end": 14.48,
+      "start": 14.4,
+      "word": "two"
+    },
+    {
+      "end": 15.2,
+      "start": 14.48,
+      "word": "he's"
+    },
+    {
+      "end": 15.68,
+      "start": 15.2,
+      "word": "driving"
+    },
+    {
+      "end": 15.92,
+      "start": 15.68,
+      "word": "along"
+    },
+    {
+      "end": 16.16,
+      "start": 15.92,
+      "word": "and"
+    },
+    {
+      "end": 16.72,
+      "start": 16.16,
+      "word": "bam"
+    },
+    {
+      "end": 17.2,
+      "start": 16.72,
+      "word": "a"
+    },
+    {
+      "end": 17.52,
+      "start": 17.2,
+      "word": "bolt"
+    },
+    {
+      "end": 17.92,
+      "start": 17.52,
+      "word": "hits"
+    },
+    {
+      "end": 18.08,
+      "start": 17.92,
+      "word": "him"
+    },
+    {
+      "end": 18.4,
+      "start": 18.08,
+      "word": "he"
+    },
+    {
+      "end": 18.64,
+      "start": 18.4,
+      "word": "just"
+    },
+    {
+      "end": 19.12,
+      "start": 18.64,
+      "word": "walks"
+    },
+    {
+      "end": 19.36,
+      "start": 19.12,
+      "word": "away"
+    },
+    {
+      "end": 20.24,
+      "start": 19.36,
+      "word": "second"
+    },
+    {
+      "end": 20.64,
+      "start": 20.24,
+      "word": "time"
+    },
+    {
+      "end": 21.2,
+      "start": 20.64,
+      "word": "nine"
+    },
+    {
+      "end": 21.44,
+      "start": 21.2,
+      "word": "hundred"
+    },
+    {
+      "end": 21.92,
+      "start": 21.44,
+      "word": "sixty"
+    },
+    {
+      "end": 22.08,
+      "start": 21.92,
+      "word": "nine"
+    },
+    {
+      "end": 22.88,
+      "start": 22.08,
+      "word": "walking"
+    },
+    {
+      "end": 23.04,
+      "start": 22.88,
+      "word": "in"
+    },
+    {
+      "end": 23.2,
+      "start": 23.04,
+      "word": "the"
+    },
+    {
+      "end": 23.44,
+      "start": 23.2,
+      "word": "park"
+    },
+    {
+      "end": 24.08,
+      "start": 23.44,
+      "word": "lightning"
+    },
+    {
+      "end": 24.48,
+      "start": 24.08,
+      "word": "hits"
+    },
+    {
+      "end": 24.64,
+      "start": 24.48,
+      "word": "again"
+    },
+    {
+      "end": 25.44,
+      "start": 24.64,
+      "word": "knocked"
+    },
+    {
+      "end": 25.6,
+      "start": 25.44,
+      "word": "out"
+    },
+    {
+      "end": 26,
+      "start": 25.6,
+      "word": "cold"
+    },
+    {
+      "end": 26.32,
+      "start": 26,
+      "word": "but"
+    },
+    {
+      "end": 27.04,
+      "start": 26.32,
+      "word": "somehow"
+    },
+    {
+      "end": 27.52,
+      "start": 27.04,
+      "word": "he's"
+    },
+    {
+      "end": 27.92,
+      "start": 27.52,
+      "word": "fine"
+    },
+    {
+      "end": 28.56,
+      "start": 27.92,
+      "word": "now"
+    },
+    {
+      "end": 29.2,
+      "start": 28.56,
+      "word": "you'd"
+    },
+    {
+      "end": 29.36,
+      "start": 29.2,
+      "word": "think"
+    },
+    {
+      "end": 29.76,
+      "start": 29.36,
+      "word": "he'd"
+    },
+    {
+      "end": 29.92,
+      "start": 29.76,
+      "word": "be"
+    },
+    {
+      "end": 30.08,
+      "start": 29.92,
+      "word": "done"
+    },
+    {
+      "end": 30.4,
+      "start": 30.08,
+      "word": "right"
+    },
+    {
+      "end": 31.04,
+      "start": 30.4,
+      "word": "but"
+    },
+    {
+      "end": 31.36,
+      "start": 31.04,
+      "word": "no"
+    },
+    {
+      "end": 32.08,
+      "start": 31.36,
+      "word": "he's"
+    },
+    {
+      "end": 32.48,
+      "start": 32.08,
+      "word": "struck"
+    },
+    {
+      "end": 32.88,
+      "start": 32.48,
+      "word": "again"
+    },
+    {
+      "end": 33.28,
+      "start": 32.88,
+      "word": "in"
+    },
+    {
+      "end": 33.52,
+      "start": 33.28,
+      "word": "one"
+    },
+    {
+      "end": 33.6,
+      "start": 33.52,
+      "word": "nine"
+    },
+    {
+      "end": 33.76,
+      "start": 33.6,
+      "word": "hundred"
+    },
+    {
+      "end": 34.4,
+      "start": 33.76,
+      "word": "seventy"
+    },
+    {
+      "end": 34.88,
+      "start": 34.4,
+      "word": "and"
+    },
+    {
+      "end": 35.44,
+      "start": 34.88,
+      "word": "again"
+    },
+    {
+      "end": 35.84,
+      "start": 35.44,
+      "word": "in"
+    },
+    {
+      "end": 36.08,
+      "start": 35.84,
+      "word": "one"
+    },
+    {
+      "end": 36.16,
+      "start": 36.08,
+      "word": "nine"
+    },
+    {
+      "end": 36.32,
+      "start": 36.16,
+      "word": "hundred"
+    },
+    {
+      "end": 36.88,
+      "start": 36.32,
+      "word": "seventy"
+    },
+    {
+      "end": 36.96,
+      "start": 36.88,
+      "word": "two"
+    },
+    {
+      "end": 37.68,
+      "start": 36.96,
+      "word": "at"
+    },
+    {
+      "end": 37.92,
+      "start": 37.68,
+      "word": "this"
+    },
+    {
+      "end": 38.24,
+      "start": 37.92,
+      "word": "point"
+    },
+    {
+      "end": 38.8,
+      "start": 38.24,
+      "word": "it's"
+    },
+    {
+      "end": 39.04,
+      "start": 38.8,
+      "word": "like"
+    },
+    {
+      "end": 39.2,
+      "start": 39.04,
+      "word": "the"
+    },
+    {
+      "end": 39.84,
+      "start": 39.2,
+      "word": "sk's"
+    },
+    {
+      "end": 40,
+      "start": 39.84,
+      "word": "got"
+    },
+    {
+      "end": 40.24,
+      "start": 40,
+      "word": "it"
+    },
+    {
+      "end": 40.32,
+      "start": 40.24,
+      "word": "out"
+    },
+    {
+      "end": 40.56,
+      "start": 40.32,
+      "word": "for"
+    },
+    {
+      "end": 40.8,
+      "start": 40.56,
+      "word": "him"
+    },
+    {
+      "end": 41.28,
+      "start": 40.8,
+      "word": "but"
+    },
+    {
+      "end": 41.68,
+      "start": 41.28,
+      "word": "it's"
+    },
+    {
+      "end": 41.92,
+      "start": 41.68,
+      "word": "nine"
+    },
+    {
+      "end": 42.16,
+      "start": 41.92,
+      "word": "hundred"
+    },
+    {
+      "end": 42.72,
+      "start": 42.16,
+      "word": "seventy"
+    },
+    {
+      "end": 42.88,
+      "start": 42.72,
+      "word": "three"
+    },
+    {
+      "end": 43.36,
+      "start": 42.88,
+      "word": "that"
+    },
+    {
+      "end": 43.68,
+      "start": 43.36,
+      "word": "gets"
+    },
+    {
+      "end": 44.16,
+      "start": 43.68,
+      "word": "wild"
+    },
+    {
+      "end": 44.96,
+      "start": 44.16,
+      "word": "roy"
+    },
+    {
+      "end": 45.44,
+      "start": 44.96,
+      "word": "sees"
+    },
+    {
+      "end": 45.52,
+      "start": 45.44,
+      "word": "a"
+    },
+    {
+      "end": 45.92,
+      "start": 45.52,
+      "word": "storm"
+    },
+    {
+      "end": 46.32,
+      "start": 45.92,
+      "word": "coming"
+    },
+    {
+      "end": 47.2,
+      "start": 46.32,
+      "word": "panics"
+    },
+    {
+      "end": 47.36,
+      "start": 47.2,
+      "word": "and"
+    },
+    {
+      "end": 47.76,
+      "start": 47.36,
+      "word": "starts"
+    },
+    {
+      "end": 48.16,
+      "start": 47.76,
+      "word": "running"
+    },
+    {
+      "end": 48.32,
+      "start": 48.16,
+      "word": "for"
+    },
+    {
+      "end": 48.48,
+      "start": 48.32,
+      "word": "cover"
+    },
+    {
+      "end": 48.96,
+      "start": 48.48,
+      "word": "but"
+    },
+    {
+      "end": 49.2,
+      "start": 48.96,
+      "word": "the"
+    },
+    {
+      "end": 49.68,
+      "start": 49.2,
+      "word": "lightning"
+    },
+    {
+      "end": 49.92,
+      "start": 49.68,
+      "word": "hit"
+    },
+    {
+      "end": 50.16,
+      "start": 49.92,
+      "word": "him"
+    },
+    {
+      "end": 50.48,
+      "start": 50.16,
+      "word": "exactly"
+    },
+    {
+      "end": 50.96,
+      "start": 50.48,
+      "word": "where"
+    },
+    {
+      "end": 51.2,
+      "start": 50.96,
+      "word": "he"
+    },
+    {
+      "end": 51.6,
+      "start": 51.2,
+      "word": "ran"
+    },
+    {
+      "end": 52.32,
+      "start": 51.6,
+      "word": "i"
+    },
+    {
+      "end": 52.64,
+      "start": 52.32,
+      "word": "know"
+    },
+    {
+      "end": 53.12,
+      "start": 52.64,
+      "word": "you're"
+    },
+    {
+      "end": 53.36,
+      "start": 53.12,
+      "word": "probably"
+    },
+    {
+      "end": 54,
+      "start": 53.36,
+      "word": "thinking"
+    },
+    {
+      "end": 54.32,
+      "start": 54,
+      "word": "how"
+    },
+    {
+      "end": 54.56,
+      "start": 54.32,
+      "word": "does"
+    },
+    {
+      "end": 54.88,
+      "start": 54.56,
+      "word": "this"
+    },
+    {
+      "end": 55.2,
+      "start": 54.88,
+      "word": "guy"
+    },
+    {
+      "end": 55.84,
+      "start": 55.2,
+      "word": "survive"
+    },
+    {
+      "end": 56.08,
+      "start": 55.84,
+      "word": "all"
+    },
+    {
+      "end": 56.24,
+      "start": 56.08,
+      "word": "that"
+    },
+    {
+      "end": 56.96,
+      "start": 56.24,
+      "word": "well"
+    },
+    {
+      "end": 57.68,
+      "start": 56.96,
+      "word": "here's"
+    },
+    {
+      "end": 57.84,
+      "start": 57.68,
+      "word": "the"
+    },
+    {
+      "end": 58.32,
+      "start": 57.84,
+      "word": "crazy"
+    },
+    {
+      "end": 58.56,
+      "start": 58.32,
+      "word": "part"
+    },
+    {
+      "end": 59.2,
+      "start": 58.56,
+      "word": "after"
+    },
+    {
+      "end": 60,
+      "start": 59.2,
+      "word": "surviving"
+    },
+    {
+      "end": 60.32,
+      "start": 60,
+      "word": "six"
+    },
+    {
+      "end": 61.04,
+      "start": 60.32,
+      "word": "lightning"
+    },
+    {
+      "end": 61.6,
+      "start": 61.04,
+      "word": "strikes"
+    },
+    {
+      "end": 61.84,
+      "start": 61.6,
+      "word": "it"
+    },
+    {
+      "end": 62.32,
+      "start": 61.84,
+      "word": "wasn't"
+    },
+    {
+      "end": 62.88,
+      "start": 62.32,
+      "word": "lightning"
+    },
+    {
+      "end": 63.04,
+      "start": 62.88,
+      "word": "that"
+    },
+    {
+      "end": 63.44,
+      "start": 63.04,
+      "word": "ended"
+    },
+    {
+      "end": 63.84,
+      "start": 63.44,
+      "word": "roy"
+    },
+    {
+      "end": 64.32,
+      "start": 63.84,
+      "word": "in"
+    },
+    {
+      "end": 64.72,
+      "start": 64.32,
+      "word": "nineteen"
+    },
+    {
+      "end": 65.12,
+      "start": 64.72,
+      "word": "eighty"
+    },
+    {
+      "end": 65.2,
+      "start": 65.12,
+      "word": "three"
+    },
+    {
+      "end": 65.52,
+      "start": 65.2,
+      "word": "he"
+    },
+    {
+      "end": 66,
+      "start": 65.52,
+      "word": "passed"
+    },
+    {
+      "end": 66.16,
+      "start": 66,
+      "word": "away"
+    },
+    {
+      "end": 66.72,
+      "start": 66.16,
+      "word": "but"
+    },
+    {
+      "end": 67.04,
+      "start": 66.72,
+      "word": "not"
+    },
+    {
+      "end": 67.36,
+      "start": 67.04,
+      "word": "from"
+    },
+    {
+      "end": 67.52,
+      "start": 67.36,
+      "word": "a"
+    },
+    {
+      "end": 67.84,
+      "start": 67.52,
+      "word": "bolt"
+    },
+    {
+      "end": 68,
+      "start": 67.84,
+      "word": "of"
+    },
+    {
+      "end": 68.48,
+      "start": 68,
+      "word": "lightning"
+    },
+    {
+      "end": 68.88,
+      "start": 68.48,
+      "word": "he"
+    },
+    {
+      "end": 69.28,
+      "start": 68.88,
+      "word": "died"
+    },
+    {
+      "end": 69.6,
+      "start": 69.28,
+      "word": "from"
+    },
+    {
+      "end": 69.76,
+      "start": 69.6,
+      "word": "a"
+    },
+    {
+      "end": 70.16,
+      "start": 69.76,
+      "word": "self"
+    },
+    {
+      "end": 70.8,
+      "start": 70.16,
+      "word": "inflicted"
+    },
+    {
+      "end": 71.44,
+      "start": 70.8,
+      "word": "gunshot"
+    },
+    {
+      "end": 71.76,
+      "start": 71.44,
+      "word": "wound"
+    },
+    {
+      "end": 72.8,
+      "start": 71.76,
+      "word": "survived"
+    },
+    {
+      "end": 72.96,
+      "start": 72.8,
+      "word": "six"
+    },
+    {
+      "end": 73.68,
+      "start": 72.96,
+      "word": "lightning"
+    },
+    {
+      "end": 74.24,
+      "start": 73.68,
+      "word": "strikes"
+    },
+    {
+      "end": 74.4,
+      "start": 74.24,
+      "word": "but"
+    },
+    {
+      "end": 74.64,
+      "start": 74.4,
+      "word": "in"
+    },
+    {
+      "end": 74.8,
+      "start": 74.64,
+      "word": "the"
+    },
+    {
+      "end": 74.96,
+      "start": 74.8,
+      "word": "end"
+    },
+    {
+      "end": 75.68,
+      "start": 74.96,
+      "word": "fate"
+    },
+    {
+      "end": 76.08,
+      "start": 75.68,
+      "word": "caught"
+    },
+    {
+      "end": 76.24,
+      "start": 76.08,
+      "word": "up"
+    },
+    {
+      "end": 76.4,
+      "start": 76.24,
+      "word": "with"
+    },
+    {
+      "end": 76.48,
+      "start": 76.4,
+      "word": "him"
+    },
+    {
+      "end": 76.88,
+      "start": 76.48,
+      "word": "another"
+    },
+    {
+      "end": 77.12,
+      "start": 76.88,
+      "word": "way"
+    }
+  ]
+}

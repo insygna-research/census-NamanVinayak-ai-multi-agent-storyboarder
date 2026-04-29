@@ -1,0 +1,375 @@
+/* Clean, minimal styling matching the working original */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  min-height: 100vh;
+  background: #f5f5f5;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin: 0 0 0.5rem 0;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  margin: 0;
+  font-weight: 400;
+}
+
+.timer {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: white;
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 1.1rem;
+}
+
+.form {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.inputGroup {
+  margin-bottom: 1.5rem;
+}
+
+.inputGroup label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.textarea, .input, .select {
+  width: 100%;
+  padding: 1rem;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+}
+
+.textarea:focus, .input:focus, .select:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.submitButton {
+  width: 100%;
+  padding: 1rem 2rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.submitButton:hover {
+  background: #0056b3;
+}
+
+.submitButton:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.status {
+  text-align: center;
+  padding: 1rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.currentStep {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #007bff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.error {
+  background: #f8d7da;
+  color: #721c24;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #f5c6cb;
+  text-align: center;
+  font-weight: 500;
+}
+
+.stageIndicators {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.stageIndicator {
+  flex: 1;
+  min-width: 150px;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 8px;
+  border: 2px solid #e0e0e0;
+  background: white;
+  transition: all 0.3s;
+}
+
+.stageIndicator.completed {
+  background: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+}
+
+.stageIndicator.current {
+  background: #cce7ff;
+  border-color: #007bff;
+  color: #004085;
+}
+
+.stageIndicator.pending {
+  background: #f8f9fa;
+  border-color: #dee2e6;
+  color: #6c757d;
+}
+
+.stageNumber {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.stageName {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.stageCheck {
+  font-size: 1.5rem;
+  color: #28a745;
+  margin-top: 0.5rem;
+}
+
+.resultSection {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.resultSection h3 {
+  color: #28a745;
+  margin: 0 0 1rem 0;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.resultGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.resultItem {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #007bff;
+}
+
+.resultItem strong {
+  display: block;
+  color: #333;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.resultItem p {
+  margin: 0;
+  color: #666;
+  line-height: 1.4;
+}
+
+.metrics {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.metric {
+  padding: 0.5rem 1rem;
+  background: #e3f2fd;
+  border-radius: 20px;
+  color: #1565c0;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.beatsPreview, .shotsPreview, .promptsPreview {
+  margin-top: 1rem;
+}
+
+.beatsPreview h4, .shotsPreview h4, .promptsPreview h4 {
+  color: #333;
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+}
+
+.beatItem, .shotItem, .promptItem {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+  border-left: 3px solid #007bff;
+}
+
+.beatItem strong, .shotItem strong, .promptItem strong {
+  display: block;
+  color: #333;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.beatItem p, .shotItem p, .promptItem p {
+  margin: 0 0 0.5rem 0;
+  color: #666;
+  line-height: 1.4;
+}
+
+.beatItem span, .shotItem span {
+  font-size: 0.8rem;
+  color: #888;
+  font-style: italic;
+}
+
+.rawResponse {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #007bff;
+}
+
+.rawResponse h4 {
+  color: #333;
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.responseCode {
+  background: #2d3748;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: 6px;
+  font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-height: 400px;
+  overflow-y: auto;
+  margin: 0;
+}
+
+.debugInfo {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.debugInfo h4 {
+  margin: 0 0 0.5rem 0;
+  color: #856404;
+}
+
+.debugInfo p {
+  margin: 0.25rem 0;
+  color: #856404;
+  font-family: monospace;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+  }
+  
+  .row {
+    grid-template-columns: 1fr;
+  }
+  
+  .stageIndicators {
+    flex-direction: column;
+  }
+  
+  .metrics {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}

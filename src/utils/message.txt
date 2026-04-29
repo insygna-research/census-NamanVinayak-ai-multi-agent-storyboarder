@@ -1,0 +1,38 @@
+[
+  {
+    "beat_no": 1,
+    "ref_sentence": "Camera zooms into an ancient Egyptian pyramid dramatically.",
+    "positive_prompt": "A majestic and awe-inspiring close-up shot of a grand ancient Egyptian pyramid. The composition follows the rule of thirds, highlighting its imposing presence. Dramatic lighting emphasizes the mysterious and grandiose atmosphere of the scene. The subject is a symbol of ancient history and engineering brilliance.",
+    "negative_prompt": "lowres, blurry, deformed, extra limbs, watermark, text, jpeg artefacts, oversaturated",
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "seed": "RANDOM",
+    "guidance_scale": 3.5,
+    "steps": 50
+  },
+  {
+    "beat_no": 2,
+    "ref_sentence": "Narrator (Intrigued, Playful): 'Think the Egyptians built the pyramids alone? Think again!'",
+    "positive_prompt": "An animated narrator looking directly at the camera with intrigue and playfulness. The composition is centered to capture their expressive face and words. The lighting is bright and clear, enhancing the subject's dynamic presence.",
+    "negative_prompt": "lowres, blurry, deformed, extra limbs, watermark, text, jpeg artefacts, oversaturated",
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "seed": "RANDOM",
+    "guidance_scale": 3.5,
+    "steps": 50
+  },
+  {
+    "beat_no": 3,
+    "ref_sentence": "Visuals of ancient Egyptian workers, intricate pyramid construction.",
+    "positive_prompt": "A medium close-up showing the meticulous and historical process of constructing an ancient Egyptian pyramid with skilled workers. The composition follows the rule of thirds to highlight the intricate details and craftsmanship.",
+    "negative_prompt": "lowres, blurry, deformed, extra limbs, watermark, text, jpeg artefacts, oversaturated",
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "seed": "RANDOM",
+    "guidance_scale": 3.5,
+    "steps": 50
+  }
+]
